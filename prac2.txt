@@ -1,5 +1,2 @@
 This is first line in prac2
 This is second line in prac2
-This is third line in prac2
-
-Added a line in prac2.txt

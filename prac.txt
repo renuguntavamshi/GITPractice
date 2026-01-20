@@ -1,5 +1,2 @@
 This is first line
 second line
-
-
-Added a line in prac.txt
